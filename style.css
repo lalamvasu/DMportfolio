@@ -1318,6 +1318,7 @@ section {
   background-clip: text;
   color: transparent;
 }
+.rb h3,
 .rb h4 {
   font: 600 15px Inter, system-ui, sans-serif;
   margin: 14px 0 4px;
